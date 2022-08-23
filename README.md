@@ -10,7 +10,7 @@ https://www.speedrun.com/botw-extension
 # Tools
 
 Object Map  
-*Full map of the game including all game objects.*  
+*Full map of Hyrule including all game objects. Can use to draw routes and mark objectives.*  
 http://bombch.us/DJtv
 
 Swiffy's teleport cheat codes (Switch Homebrew required)  

@@ -93,7 +93,13 @@ Castle
 [need 3AA link]  
 [need 6AA link]
 
-Noman's Blights tutorial
+Amiibo and attack up recipes  
+[need link]
+
+No amiibo route  
+[need link]
+
+Noman's Blights tutorial  
 https://www.youtube.com/watch?v=aMbvew2Fskg
 
 Bombs Gamer WB (Advanced)  

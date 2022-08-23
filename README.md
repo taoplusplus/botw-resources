@@ -162,7 +162,7 @@ https://celer.itntpiston.app/#/gh/taoplusplus/corrupted.granatus
 No Restrictions  
 https://celer.itntpiston.app/#/gh/taoplusplus/ms/
 
-Restricted
+Restricted  
 *Must complete "The Hero's Sword" main quest. Heart upgrades must come spirit orbs collected from completed shrines.*  
 https://celer.itntpiston.app/#/gh/taoplusplus/msr/
 
@@ -178,7 +178,7 @@ Restricted
 https://celer.itntpiston.app/#/gh/taoplusplus/msdr/
 
 ## Great Plateau 100%
-*Obtain the Paraglider after completing all possible objectives on the Great Plateau*
+*Obtain the Paraglider after completing all possible objectives on the Great Plateau.*
 
 Route  
 https://docs.google.com/document/d/1tQVQm_nkef_q3bRdwVTjBhaS-OyqmT60c1dAXBaBa3A/edit?usp=sharing

@@ -25,23 +25,28 @@ ZeldaSpeedRuns wiki (outdated, needs updating) http://zeldaspeedruns.com/botw
 # Highlighted Resources
 *Comprehensive and/or useful guides that apply to multiple categories.*
 
-- Shield clips:  
+- Shield clips  
 *apply skew to clip through walls*
 	- Jhent's comprehensive shield clipping tutorial https://youtu.be/Y6JTniuJPXE
 	- Piston's Test of Strength skip setups https://youtu.be/n2iqr7lh5gE
-- Windbomb:  
+	- Tony Express's ragdoll and skew explanation https://youtu.be/8bfZ4o-OMDg
+- Windbomb  
 *use 2 bombs and bullet time to go fast*
-	- Vivoxe's windbomb tutorial https://youtube.com/playlist?list=PLDeJIkztemjirnz-Wpz0dhKw4VdVfLnZ5
-	- Swiffy22's windbomb setups https://youtu.be/z1oDa3xRD08
+	- Vivoxe's windbomb tutorials https://youtube.com/playlist?list=PLDeJIkztemjirnz-Wpz0dhKw4VdVfLnZ5
+	- Swiffy's windbomb setups https://youtu.be/z1oDa3xRD08
 	- Super Launch: *abuse lag to go faster*
 		- Orcrist's super launch bootcamp https://youtu.be/vE1o7WHiVmg
 		- Swiffy's audio cues https://discord.com/channels/269611402854006785/480413384844771348/778220782614347786
 		- Super launches with handcam https://twitter.com/Swiffy22/status/1327066136437919745?s=20&t=j8KbdyheCZFsBcvPz9DBmg
-- Bow Lift Smuggle Slide (BLSS):  
+- Bow Lift Smuggle Slide (BLSS)  
 *use a held object to push Link across the map*
 	- Tapir's blss tutorial https://youtu.be/AYvJa_pQXZc
 	- Piston's elevator blss tutorial https://youtu.be/Wk5M7Ts7-YE
-	- BLSS styles https://docs.google.com/spreadsheets/u/0/d/1ovVU9zgAbO2yOIgaF41pC-IFh5Q_71JBscAmkN2hklk/htmlview#gid=0
+	- Blss grip styles https://docs.google.com/spreadsheets/u/0/d/1ovVU9zgAbO2yOIgaF41pC-IFh5Q_71JBscAmkN2hklk/htmlview#gid=0
+- Shrine Coordinate Warp (SCW) resources:  
+*use one shrine's elevator to enter another*
+    - Orcrist's tutorial https://www.youtube.com/watch?v=fcLRI_yGSj4&list=PLii13EF5GET2m4gLeClzYTSkfVhlBYK7Y
+    - See All Shrines section below for more
 - Inventory Slot Transfer (IST)  
 *do some crazy stuff*
 	- IST tutorial: ?
@@ -92,7 +97,7 @@ https://youtu.be/nFH3gsKNZ04?t=4047
 ## All Dungeons
 *Destroy Ganon after completing each Divine Beast.*
 
-Route  
+WR Route  
 https://celer.itntpiston.app/#/gh/taoplusplus/alldungeons/
 
 Divine beast strategies
@@ -105,30 +110,30 @@ Divine beast strategies
 ## All Main Quests
 *Destroy Ganon after completing every other main quest.*
 
-No Restrictions route (wip)  
+No Restrictions WR route  
 https://celer.itntpiston.app/#/gh/taoplusplus/amqnr/
 
-Restricted route (wip)  
-*Heart upgrades must come spirit orbs collected from completed shrines.*  
+Restricted WR route  
+*Heart upgrades must come from spirit orbs collected from completed shrines or from heart containers received from completing divine beasts.*  
 https://celer.itntpiston.app/#/gh/taoplusplus/amqr/
 
 
 ## All Shrines
 *Destroy Ganon after completing every shrine.*
 
-No Restrictions route (wip)  
+No Restrictions WR route  
 https://celer.itntpiston.app/#/gh/taoplusplus/allshrines/
 
-Restricted route (wip)  
+Restricted WR route  
 *Use of the Shrine Coordinate Warp glitch is banned.*  
 https://celer.itntpiston.app/#/gh/taoplusplus/asr/
 
-Shrine Coordinate Warp (SCW) resources:  
+SCW:  
 *use one shrine's elevator to enter another*
-* Basic setup https://www.youtube.com/watch?v=fcLRI_yGSj4&list=PLii13EF5GET2m4gLeClzYTSkfVhlBYK7Y
-* Buffered SCW bootcamp https://www.twitch.tv/videos/1457060058
-* Infinity SCW https://youtu.be/Vha7mPcc1D8
-* 60 bpm metronome https://youtu.be/k-VP7TMf4kM
+* Orcrist's tutorial https://www.youtube.com/watch?v=fcLRI_yGSj4&list=PLii13EF5GET2m4gLeClzYTSkfVhlBYK7Y
+* Orcrist's buffered SCW bootcamp https://www.twitch.tv/videos/1457060058
+* Orcrist's infinity SCW https://youtu.be/Vha7mPcc1D8
+* Piston's 60 bpm metronome https://youtu.be/k-VP7TMf4kM
 
 Piston's commentated walkthrough  
 (Made recently but slightly outdated)  
@@ -149,29 +154,29 @@ https://celer.itntpiston.app/#/gh/taoplusplus/corrupted.granatus
 ## Best Ending
 *Obtain 13 memories that are part of the Captured Memories quest. Reach the special cutscene after destroying Ganon.*
 
-Route (wip) 
+WR Route 
 https://celer.itntpiston.app/#/gh/taoplusplus/bestending/
 
 
 ## Master Sword
 *Obtain the Master Sword.*
 
-No Restrictions route (wip)  
+No Restrictions WR route  
 https://celer.itntpiston.app/#/gh/taoplusplus/ms/
 
-Restricted (wip)  
-*Must complete "The Hero's Sword" main quest. Heart upgrades must come spirit orbs collected from completed shrines.*  
+Restricted WR route  
+*Must complete "The Hero's Sword" main quest. Heart upgrades must come from spirit orbs collected from completed shrines or from heart containers received from completing divine beasts.*  
 https://celer.itntpiston.app/#/gh/taoplusplus/msr/
 
 
 ## Master Sword and Dungeons
 *Destroy Ganon after completing each Divine Beast and obtaining the Master Sword.*
 
-No Restrictions (wip)  
+No Restrictions WR route  
 https://celer.itntpiston.app/#/gh/taoplusplus/msdnr/
 
-Restricted (wip)  
-*Must complete "The Hero's Sword" main quest. Heart upgrades must come spirit orbs collected from completed shrines.*  
+Restricted WR route  
+*Must complete "The Hero's Sword" main quest. Heart upgrades must come from spirit orbs collected from completed shrines or from heart containers received from completing divine beasts.*  
 https://celer.itntpiston.app/#/gh/taoplusplus/msdr/
 
 
@@ -180,6 +185,14 @@ https://celer.itntpiston.app/#/gh/taoplusplus/msdr/
 
 Route  
 https://docs.google.com/document/d/1tQVQm_nkef_q3bRdwVTjBhaS-OyqmT60c1dAXBaBa3A/edit?usp=sharing
+
+
+# Bug Limit
+*Categories with a list of banned glitches.*
+
+Lou's basics guide https://youtu.be/4f-deCOzrvs  
+Any% WR route  
+All Dungeons WR route
 
 
 
@@ -233,7 +246,6 @@ https://en-americas-support.nintendo.com/app/answers/detail/a_id/27542/~/how-to-
 📊 Horse, Shield, and Bow Stats http://bombch.us/DOdh  
 ⚖️ Enemy and Weapon Scaling http://bombch.us/DJta  
 💯 Scaling Points per Kill http://bombch.us/DJtb  
-🧮 Damage Calculator http://bombch.us/DJtk (remove this, doesn't work)
 
 
 ## Materials
@@ -244,7 +256,7 @@ https://en-americas-support.nintendo.com/app/answers/detail/a_id/27542/~/how-to-
 🍴 Cooking Effects Pastebin http://bombch.us/DJto (Add 30 seconds to Star Fragment, Dragon Scale/Claw/Fang, and all Monster Parts. Octo Balloon should be 40 seconds)  
 🧶 Material Usage Spreadsheet http://bombch.us/DJtq  
 🔓 All Shrine Chests Contents http://bombch.us/DJtr  
-🎁 All Drop Tables http://bombch.us/DJts (NOTE: replace with https://restite.org/drops/)  
+🎁 Drop Tables and Probability Calculator https://restite.org/drops/
 🏷️ amiibo Drop Tables http://bombch.us/DJtt
 
 
@@ -253,6 +265,5 @@ https://en-americas-support.nintendo.com/app/answers/detail/a_id/27542/~/how-to-
 🗺️ ZeldaDungeon’s Interactive Map http://bombch.us/DJtw  
 📍 Map Locations that contribute to Percent Complete http://bombch.us/DJtx  
 🗼 Towers and Shrines Name Map http://bombch.us/DJty  
-🔢 Numbered Korok Map http://bombch.us/DNSj (NOTE: remove since the object map has this feature now)  
 🌰 Interactive Korok Map http://bombch.us/DJt0  
 ❓  Missable Locations for 100% http://bombch.us/DNTh

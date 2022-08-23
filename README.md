@@ -48,22 +48,30 @@ ZeldaSpeedRuns wiki (outdated, needs updating) http://zeldaspeedruns.com/botw
 
 # Highlights
 
-- Jhent's comprehensive shield clipping tutorial https://youtu.be/Y6JTniuJPXE
-- Windbombs
+- Shield clips:  
+*apply skew to clip through walls*
+	- Jhent's comprehensive shield clipping tutorial https://youtu.be/Y6JTniuJPXE
+	- Piston's Test of Strength skip setups https://youtu.be/n2iqr7lh5gE
+- Windbomb: *use 2 bombs and bullet time to go fast*
 	- Vivoxe's windbomb tutorial https://youtube.com/playlist?list=PLDeJIkztemjirnz-Wpz0dhKw4VdVfLnZ5
 	- Swiffy22's windbomb setups https://youtu.be/z1oDa3xRD08
-	- Super Launch
+	- Super Launch: *abuse lag to go faster*
 		- Orcrist's super launch bootcamp
 		- Swiffy's audio cues
 		- Super launches with handcam
-- BLSS
+- Bow Lift Smuggle Slide (BLSS): *use a held object to push Link across the map*
 	- Tapir's blss tutorial https://youtu.be/AYvJa_pQXZc
+	- Piston's elevator blss tutorial https://youtu.be/Wk5M7Ts7-YE
 	- BLSS styles https://docs.google.com/spreadsheets/u/0/d/1ovVU9zgAbO2yOIgaF41pC-IFh5Q_71JBscAmkN2hklk/htmlview#gid=0
-- SCW
+- Shrine Coordinate Warp (SCW): *use one shrine's elevator to enter another*
 	- Basic setup https://www.youtube.com/watch?v=fcLRI_yGSj4&list=PLii13EF5GET2m4gLeClzYTSkfVhlBYK7Y
 	- Buffered SCW bootcamp https://www.twitch.tv/videos/1457060058
 	- Infinity SCW https://youtu.be/Vha7mPcc1D8
-- IST/DIC/WMC
+	- 60 bpm metronome https://youtu.be/k-VP7TMf4kM
+- Inventory Slot Transfer (IST)
+	- IST tutorial: ?
+	- Direct Inventory Corruption (DIC): ?
+	- Weapon Modifier Corruption (WMC): ?
 
 
 # Main Categories

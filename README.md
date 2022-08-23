@@ -52,23 +52,27 @@ ZeldaSpeedRuns wiki (outdated, needs updating) http://zeldaspeedruns.com/botw
 *apply skew to clip through walls*
 	- Jhent's comprehensive shield clipping tutorial https://youtu.be/Y6JTniuJPXE
 	- Piston's Test of Strength skip setups https://youtu.be/n2iqr7lh5gE
-- Windbomb: *use 2 bombs and bullet time to go fast*
+- Windbomb:  
+*use 2 bombs and bullet time to go fast*
 	- Vivoxe's windbomb tutorial https://youtube.com/playlist?list=PLDeJIkztemjirnz-Wpz0dhKw4VdVfLnZ5
 	- Swiffy22's windbomb setups https://youtu.be/z1oDa3xRD08
 	- Super Launch: *abuse lag to go faster*
-		- Orcrist's super launch bootcamp
-		- Swiffy's audio cues
-		- Super launches with handcam
-- Bow Lift Smuggle Slide (BLSS): *use a held object to push Link across the map*
+		- Orcrist's super launch bootcamp https://youtu.be/vE1o7WHiVmg
+		- Swiffy's audio cues https://discord.com/channels/269611402854006785/480413384844771348/778220782614347786
+		- Super launches with handcam https://twitter.com/Swiffy22/status/1327066136437919745?s=20&t=j8KbdyheCZFsBcvPz9DBmg
+- Bow Lift Smuggle Slide (BLSS):  
+*use a held object to push Link across the map*
 	- Tapir's blss tutorial https://youtu.be/AYvJa_pQXZc
 	- Piston's elevator blss tutorial https://youtu.be/Wk5M7Ts7-YE
 	- BLSS styles https://docs.google.com/spreadsheets/u/0/d/1ovVU9zgAbO2yOIgaF41pC-IFh5Q_71JBscAmkN2hklk/htmlview#gid=0
-- Shrine Coordinate Warp (SCW): *use one shrine's elevator to enter another*
+- Shrine Coordinate Warp (SCW):  
+*use one shrine's elevator to enter another*
 	- Basic setup https://www.youtube.com/watch?v=fcLRI_yGSj4&list=PLii13EF5GET2m4gLeClzYTSkfVhlBYK7Y
 	- Buffered SCW bootcamp https://www.twitch.tv/videos/1457060058
 	- Infinity SCW https://youtu.be/Vha7mPcc1D8
 	- 60 bpm metronome https://youtu.be/k-VP7TMf4kM
-- Inventory Slot Transfer (IST)
+- Inventory Slot Transfer (IST)  
+*do some crazy stuff*
 	- IST tutorial: ?
 	- Direct Inventory Corruption (DIC): ?
 	- Weapon Modifier Corruption (WMC): ?
@@ -86,10 +90,10 @@ How to beat Breath of the Wild in 25 Minutes
 https://www.youtube.com/watch?v=HwuPldbQIGo&t=
 
 Castle  
-[3AA link]  
-[6AA link]
+[need 3AA link]  
+[need 6AA link]
 
-Blights  
+Noman's Blights tutorial
 https://www.youtube.com/watch?v=aMbvew2Fskg
 
 Bombs Gamer WB (Advanced)  
@@ -125,10 +129,10 @@ Divine beast strategies
 ## All Main Quests
 *Destroy Ganon after completing every other main quest.*
 
-No Restrictions  
+No Restrictions route (wip)  
 https://celer.itntpiston.app/#/gh/taoplusplus/amqnr/
 
-Restricted  
+Restricted route (wip)  
 *Heart upgrades must come spirit orbs collected from completed shrines.*  
 https://celer.itntpiston.app/#/gh/taoplusplus/amqr/
 
@@ -136,10 +140,10 @@ https://celer.itntpiston.app/#/gh/taoplusplus/amqr/
 ## All Shrines
 *Destroy Ganon after completing every shrine.*
 
-No Restrictions  
+No Restrictions route (wip)  
 https://celer.itntpiston.app/#/gh/taoplusplus/allshrines/
 
-Restricted  
+Restricted route (wip)  
 *Use of the Shrine Coordinate Warp glitch is banned.*  
 https://celer.itntpiston.app/#/gh/taoplusplus/asr/
 
@@ -155,6 +159,7 @@ https://www.youtube.com/watch?v=MZqANcvFr4c
 
 
 ## 100%
+*All 900 koroks, 120 shrines, divine beasts, main quests, side quests, shrine quests, and memories. 100% map counter. All permanent items including: upgraded shiekah slate, all Kilton medals (kill 40 Hinox, 40 Talus, 4 Molduga), horse bridles and saddles, Hestu's Gift, Confidential Envelope (completed Compendium). All unsellable armor fully upgraded: Zora set, Cap/Tunic/Trousers of the Wild, Champion's Tunic, and Thunder Helm.*
 
 Route  
 https://celer.itntpiston.app/#/gh/taoplusplus/corrupted.granatus
@@ -163,17 +168,17 @@ https://celer.itntpiston.app/#/gh/taoplusplus/corrupted.granatus
 ## Best Ending
 *Obtain 13 memories that are part of the Captured Memories quest. Reach the special cutscene after destroying Ganon.*
 
-Route  
+Route (wip) 
 https://celer.itntpiston.app/#/gh/taoplusplus/bestending/
 
 
 ## Master Sword
 *Obtain the Master Sword.*
 
-No Restrictions  
+No Restrictions route (wip)  
 https://celer.itntpiston.app/#/gh/taoplusplus/ms/
 
-Restricted  
+Restricted (wip)  
 *Must complete "The Hero's Sword" main quest. Heart upgrades must come spirit orbs collected from completed shrines.*  
 https://celer.itntpiston.app/#/gh/taoplusplus/msr/
 
@@ -181,10 +186,10 @@ https://celer.itntpiston.app/#/gh/taoplusplus/msr/
 ## Master Sword and Dungeons
 *Destroy Ganon after completing each Divine Beast and obtaining the Master Sword.*
 
-No Restrictions  
+No Restrictions (wip)  
 https://celer.itntpiston.app/#/gh/taoplusplus/msdnr/
 
-Restricted  
+Restricted (wip)  
 *Must complete "The Hero's Sword" main quest. Heart upgrades must come spirit orbs collected from completed shrines.*  
 https://celer.itntpiston.app/#/gh/taoplusplus/msdr/
 

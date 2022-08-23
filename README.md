@@ -1,40 +1,40 @@
 
 # Leaderboards
 
-Main Leaderboards
+Main Leaderboards  
 https://www.speedrun.com/botw
 
-Category Extension Leaderboards
+Category Extension Leaderboards  
 https://www.speedrun.com/botw-extension
 
 # Tools
 
-Object Map
-*Full map of the game including all game objects.*
+Object Map  
+*Full map of the game including all game objects.*  
 http://bombch.us/DJtv
 
-Swiffy22's teleport cheat codes (Switch Homebrew required)
-*Save+Restore Link's position and other attributes with a button combination. Useful for practice. Implemented with cheat codes in Breeze.*
+Swiffy22's teleport cheat codes (Switch Homebrew required)  
+*Save+Restore Link's position and other attributes with a button combination. Useful for practice. Implemented with cheat codes in Breeze.*  
 https://github.com/swiffy22/botw-save-state
 
-Piston's save state mod (Switch Homebrew required)
-*Save+Restore Link's position and other attributes with a button combination. Useful for practice. Full mod that's more flexible than the the cheat codes. In development.*
+Piston's save state mod (Switch Homebrew required)  
+*Save+Restore Link's position and other attributes with a button combination. Useful for practice. Full mod that's more flexible than the the cheat codes. In development.*  
 https://github.com/iTNTPiston/botw-save-state
 
-IST Simulator
-*For documenting, sharing, and experimenting with setups for Inventory Slot Transfer and Direct Inventory Corruption.*
+IST Simulator  
+*For documenting, sharing, and experimenting with setups for Inventory Slot Transfer and Direct Inventory Corruption.*  
 https://dupl.itntpiston.app/
 
-Celer routing engine
-*For documenting and sharing routes. Automatically generates maps and LiveSplit splits and other features.*
+Celer routing engine  
+*For documenting and sharing routes. Automatically generates maps and LiveSplit splits and other features.*  
 https://github.com/iTNTPiston/celer/
 
-Tools and Saves
-*Other tools and save files shared by the community.*
+Tools and Saves  
+*Other tools and save files shared by the community.*  
 https://www.speedrun.com/botw/resources
 
-How to Share Captured Gameplay Videos
-*Useful for sharing strats and asking for help.*
+How to Share Captured Gameplay Videos  
+*Useful for sharing strats and asking for help.*  
 https://en-americas-support.nintendo.com/app/answers/detail/a_id/27542/~/how-to-share-captured-gameplay-videos
 
 # General Resources

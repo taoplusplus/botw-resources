@@ -72,7 +72,7 @@ Noman's Blights tutorial https://www.youtube.com/watch?v=aMbvew2Fskg
 Mikey explains 6AA Calamity https://youtu.be/uMSgbiaP0XA  
 Tapir explains Dark Beast pre-fires https://youtu.be/nFH3gsKNZ04?t=4047
 
-**Advanced Plateau Windbombs**
+**Advanced Plateau Windbombs**  
 Limcube's Gamer Windbomb tutorial https://youtu.be/lLgkZABMxt4?t=1663  
 OnyxEbony's visual cues for Canal Windbomb https://twitter.com/OnyxEbony3/status/1482671152367484929  
 Mikey explains Canal Windbomb https://clips.twitch.tv/CredulousTangibleSmoothieKlappa-LGFfW_p8-yzd2LBy
@@ -82,8 +82,7 @@ OnyxEbony's visual cues for Stasis Windbomb http://bombch.us/DWK0
 ## All Dungeons
 *Destroy Ganon after completing each Divine Beast.*
 
-WR Route  
-https://celer.itntpiston.app/#/gh/taoplusplus/alldungeons/
+WR Route https://celer.itntpiston.app/#/gh/taoplusplus/alldungeons/
 
 Divine beast strategies
 * Medoh https://youtu.be/8Q-vJBSBhV0?t=1283
@@ -110,10 +109,10 @@ Restricted WR route https://celer.itntpiston.app/#/gh/taoplusplus/asr/
 
 SCW: *use one shrine's elevator to enter another*
 * Orcrist's buffered SCW bootcamp https://www.twitch.tv/videos/1457060058
-* Orcrist's infinity SCW https://youtu.be/Vha7mPcc1D8
+* Orcrist's infinity SCW tutorial https://youtu.be/Vha7mPcc1D8
 * Piston's 60 bpm metronome https://youtu.be/k-VP7TMf4kM
 
-Piston's commentated walkthrough https://youtu.be/QEDwCbvwDQw
+Piston's commentated walkthrough https://youtu.be/QEDwCbvwDQw  
 (Made recently but slightly outdated)
 
 Bings' commentated walkthrough https://youtu.be/MZqANcvFr4c  
@@ -143,7 +142,7 @@ Restricted WR route https://celer.itntpiston.app/#/gh/taoplusplus/msr/
 ## Master Sword and Dungeons
 *Destroy Ganon after completing each Divine Beast and obtaining the Master Sword.*
 
-No Restrictions WR route https://celer.itntpiston.app/#/gh/taoplusplus/msdnr/
+No Restrictions WR route https://celer.itntpiston.app/#/gh/taoplusplus/msdnr/  
 Restricted WR route https://celer.itntpiston.app/#/gh/taoplusplus/msdr/  
 *Must complete "The Hero's Sword" main quest. Heart upgrades must come from spirit orbs collected from completed shrines or from heart containers received from completing divine beasts.*
 
@@ -174,11 +173,11 @@ Plateau lynel kill with handcam http://bombch.us/DWKy
 Object Map http://bombch.us/DJtv  
 *Full map of Hyrule including all game objects. Can use to draw routes and mark objectives.*  
 
-Swiffy's teleport cheat codes (Switch Homebrew required) https://github.com/swiffy22/botw-save-state  
-*Save+Restore Link's position and other attributes with a button combination. Useful for practice. Implemented with cheat codes in Breeze.*  
+Swiffy's teleport cheat codes https://github.com/swiffy22/botw-save-state  
+*Save+Restore Link's position and other attributes with a button combination. Useful for practice. Implemented with cheat codes in Breeze. (Switch Homebrew required)*  
 
-Piston's save state mod (Switch Homebrew required) https://github.com/iTNTPiston/botw-save-state   
-*Save+Restore Link's position and other attributes with a button combination. Useful for practice. Full mod that's more flexible than the the cheat codes. In development.*
+Piston's save state mod https://github.com/iTNTPiston/botw-save-state   
+*Save+Restore Link's position and other attributes with a button combination. Useful for practice. Full mod that's more flexible than the the cheat codes. In development. (Switch Homebrew required)*
 
 IST Simulator https://dupl.itntpiston.app/  
 *For documenting, sharing, and experimenting with setups for Inventory Slot Transfer and Direct Inventory Corruption.*
@@ -186,7 +185,7 @@ IST Simulator https://dupl.itntpiston.app/
 Celer routing engine https://github.com/iTNTPiston/celer/  
 *For documenting and sharing routes. Automatically generates maps and LiveSplit splits and other features.*
 
-Resources on speedrun.com  https://www.speedrun.com/botw/resources
+Resources on speedrun.com  https://www.speedrun.com/botw/resources  
 *Other tools and save files shared by the community.*
 
 How to Share Captured Gameplay Videos (Switch) http://bombch.us/DWKx  
@@ -233,10 +232,10 @@ How to Share Captured Gameplay Videos (Switch) http://bombch.us/DWKx
 
 ## Games Done Quick
 
-2017 Any% by Orcastraw in 45:59 https://youtu.be/X7ccTpwEcp8
-2018 All Main Quests by atz in 3:59:04 https://youtu.be/tsUvZ9yiN_U
-2019 Any% by Wolhaiksong in 33:51 https://youtu.be/-yFXNONpN7Q
-2020 All Dog Treasures by Limcube in 1:28:15 https://youtu.be/6tghEXGd68c
+2017 Any% by Orcastraw in 45:59 https://youtu.be/X7ccTpwEcp8  
+2018 All Main Quests by atz in 3:59:04 https://youtu.be/tsUvZ9yiN_U  
+2019 Any% by Wolhaiksong in 33:51 https://youtu.be/-yFXNONpN7Q  
+2020 All Dog Treasures by Limcube in 1:28:15 https://youtu.be/6tghEXGd68c  
 2021 All Dungeons by Johnnyboomr in 1:41:46 https://youtu.be/7iWTYIVOXOo
 
 

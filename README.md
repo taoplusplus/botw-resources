@@ -29,7 +29,7 @@ Celer routing engine
 *For documenting and sharing routes. Automatically generates maps and LiveSplit splits and other features.*  
 https://github.com/iTNTPiston/celer/
 
-Resources on speedrun.com
+Resources on speedrun.com  
 *Other tools and save files shared by the community.*  
 https://www.speedrun.com/botw/resources
 
@@ -117,7 +117,7 @@ Divine beast strategies
 ## All Main Quests
 *Destroy Ganon after completing every other main quest.*
 
-No Restrictions
+No Restrictions  
 https://celer.itntpiston.app/#/gh/taoplusplus/amqnr/
 
 Restricted  
@@ -133,15 +133,15 @@ https://celer.itntpiston.app/#/gh/taoplusplus/allshrines/
 
 Restricted  
 *Use of the Shrine Coordinate Warp glitch is banned.*  
-https://celer.itntpiston.app/#/gh/taoplusplus/alldungeons/
+https://celer.itntpiston.app/#/gh/taoplusplus/asr/
 
 
 Piston's commentated walkthrough  
-(Made recently but slightly outdated)
+(Made recently but slightly outdated)  
 https://youtu.be/QEDwCbvwDQw
 
 Bings' commentated walkthrough  
-(Older route but still very useful)
+(Based on pre-blss/IST route but still very useful)  
 https://www.youtube.com/watch?v=MZqANcvFr4c
 
 
@@ -154,6 +154,9 @@ https://celer.itntpiston.app/#/gh/taoplusplus/corrupted.granatus
 
 ## Best Ending
 *Obtain 13 memories that are part of the Captured Memories quest.*
+
+Route  
+https://celer.itntpiston.app/#/gh/taoplusplus/bestending/
 
 
 ## Master Sword

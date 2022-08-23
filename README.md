@@ -153,7 +153,7 @@ https://celer.itntpiston.app/#/gh/taoplusplus/corrupted.granatus
 
 
 ## Best Ending
-*Obtain 13 memories that are part of the Captured Memories quest.*
+*Obtain 13 memories that are part of the Captured Memories quest. Reach the special cutscene after destroying Ganon.*
 
 Route  
 https://celer.itntpiston.app/#/gh/taoplusplus/bestending/

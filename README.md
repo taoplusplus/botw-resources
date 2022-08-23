@@ -8,7 +8,7 @@ https://www.speedrun.com/botw
 Category Extension Leaderboards  
 https://www.speedrun.com/botw-extension
 
-To submit your own run to the leaderboard, a clear video recording of your gameplay on the Wii U or Switch is required. At this time, emulators like CEMU and Yuzu are not allowed because of inaccuracies in their emulation. See the leaderboards for more specific rules in each category.
+To submit your own run to the leaderboard, a clear video recording of your gameplay on the Wii U or Switch is required. This can be done with a phone recording or a capture card. Verifiers will time your run so no on screen timer is needed. At this time, emulators like CEMU and Yuzu are not allowed because of inaccuracies in their emulation. See the leaderboards for more specific rules in each category.
 
 
 

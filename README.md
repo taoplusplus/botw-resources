@@ -125,10 +125,10 @@ https://celer.itntpiston.app/#/gh/taoplusplus/asr/
 
 Shrine Coordinate Warp (SCW) resources:  
 *use one shrine's elevator to enter another*
-	- Basic setup https://www.youtube.com/watch?v=fcLRI_yGSj4&list=PLii13EF5GET2m4gLeClzYTSkfVhlBYK7Y
-	- Buffered SCW bootcamp https://www.twitch.tv/videos/1457060058
-	- Infinity SCW https://youtu.be/Vha7mPcc1D8
-	- 60 bpm metronome https://youtu.be/k-VP7TMf4kM
+* Basic setup https://www.youtube.com/watch?v=fcLRI_yGSj4&list=PLii13EF5GET2m4gLeClzYTSkfVhlBYK7Y
+* Buffered SCW bootcamp https://www.twitch.tv/videos/1457060058
+* Infinity SCW https://youtu.be/Vha7mPcc1D8
+* 60 bpm metronome https://youtu.be/k-VP7TMf4kM
 
 Piston's commentated walkthrough  
 (Made recently but slightly outdated)  

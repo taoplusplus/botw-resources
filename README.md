@@ -1,5 +1,6 @@
 
 # Leaderboards
+*Watch and submit runs.*
 
 Main Leaderboards  
 https://www.speedrun.com/botw
@@ -7,35 +8,9 @@ https://www.speedrun.com/botw
 Category Extension Leaderboards  
 https://www.speedrun.com/botw-extension
 
-# Tools
+To submit your own run to the leaderboard, a clear video recording of your gameplay on the Wii U or Switch is required. At this time, emulators like CEMU and Yuzu are not allowed because of inaccuracies in their emulation. See the leaderboards for more specific rules in each category.
 
-Object Map  
-*Full map of Hyrule including all game objects. Can use to draw routes and mark objectives.*  
-http://bombch.us/DJtv
 
-Swiffy's teleport cheat codes (Switch Homebrew required)  
-*Save+Restore Link's position and other attributes with a button combination. Useful for practice. Implemented with cheat codes in Breeze.*  
-https://github.com/swiffy22/botw-save-state
-
-Piston's save state mod (Switch Homebrew required)  
-*Save+Restore Link's position and other attributes with a button combination. Useful for practice. Full mod that's more flexible than the the cheat codes. In development.*  
-https://github.com/iTNTPiston/botw-save-state
-
-IST Simulator  
-*For documenting, sharing, and experimenting with setups for Inventory Slot Transfer and Direct Inventory Corruption.*  
-https://dupl.itntpiston.app/
-
-Celer routing engine  
-*For documenting and sharing routes. Automatically generates maps and LiveSplit splits and other features.*  
-https://github.com/iTNTPiston/celer/
-
-Resources on speedrun.com  
-*Other tools and save files shared by the community.*  
-https://www.speedrun.com/botw/resources
-
-How to Share Captured Gameplay Videos  
-*Useful for sharing strats and asking for help.*  
-https://en-americas-support.nintendo.com/app/answers/detail/a_id/27542/~/how-to-share-captured-gameplay-videos
 
 # General Resources
 
@@ -46,7 +21,8 @@ https://en-americas-support.nintendo.com/app/answers/detail/a_id/27542/~/how-to-
 ZeldaSpeedRuns wiki (outdated, needs updating) http://zeldaspeedruns.com/botw
 
 
-# Highlights
+
+# Highlighted Resources
 
 - Shield clips:  
 *apply skew to clip through walls*
@@ -76,6 +52,7 @@ ZeldaSpeedRuns wiki (outdated, needs updating) http://zeldaspeedruns.com/botw
 	- IST tutorial: ?
 	- Direct Inventory Corruption (DIC): ?
 	- Weapon Modifier Corruption (WMC): ?
+
 
 
 # Main Categories
@@ -115,8 +92,6 @@ https://discord.com/channels/269611402854006785/404443902985240587/1011270992376
 
 Dark Beast Pre-Fires (Advanced)  
 https://youtu.be/nFH3gsKNZ04?t=4047
-
-
 
 
 ## All Dungeons
@@ -163,7 +138,6 @@ Bings' commentated walkthrough
 https://www.youtube.com/watch?v=MZqANcvFr4c
 
 
-
 ## 100%
 *All 900 koroks, 120 shrines, divine beasts, main quests, side quests, shrine quests, and memories. 100% map counter. All permanent items including: upgraded shiekah slate, all Kilton medals (kill 40 Hinox, 40 Talus, 4 Molduga), horse bridles and saddles, Hestu's Gift, Confidential Envelope (completed Compendium). All unsellable armor fully upgraded: Zora set, Cap/Tunic/Trousers of the Wild, Champion's Tunic, and Thunder Helm.*
 
@@ -199,6 +173,7 @@ Restricted (wip)
 *Must complete "The Hero's Sword" main quest. Heart upgrades must come spirit orbs collected from completed shrines.*  
 https://celer.itntpiston.app/#/gh/taoplusplus/msdr/
 
+
 ## Great Plateau 100%
 *Obtain the Paraglider after completing all possible objectives on the Great Plateau.*
 
@@ -206,10 +181,44 @@ Route
 https://docs.google.com/document/d/1tQVQm_nkef_q3bRdwVTjBhaS-OyqmT60c1dAXBaBa3A/edit?usp=sharing
 
 
+
 # Master Mode
 
 Plateau lynel kill with handcam  
 https://discord.com/channels/269611402854006785/293465650540838913/953917179747770370 
+
+
+
+# Tools
+
+Object Map  
+*Full map of Hyrule including all game objects. Can use to draw routes and mark objectives.*  
+http://bombch.us/DJtv
+
+Swiffy's teleport cheat codes (Switch Homebrew required)  
+*Save+Restore Link's position and other attributes with a button combination. Useful for practice. Implemented with cheat codes in Breeze.*  
+https://github.com/swiffy22/botw-save-state
+
+Piston's save state mod (Switch Homebrew required)  
+*Save+Restore Link's position and other attributes with a button combination. Useful for practice. Full mod that's more flexible than the the cheat codes. In development.*  
+https://github.com/iTNTPiston/botw-save-state
+
+IST Simulator  
+*For documenting, sharing, and experimenting with setups for Inventory Slot Transfer and Direct Inventory Corruption.*  
+https://dupl.itntpiston.app/
+
+Celer routing engine  
+*For documenting and sharing routes. Automatically generates maps and LiveSplit splits and other features.*  
+https://github.com/iTNTPiston/celer/
+
+Resources on speedrun.com  
+*Other tools and save files shared by the community.*  
+https://www.speedrun.com/botw/resources
+
+How to Share Captured Gameplay Videos  
+*Useful for sharing strats and asking for help.*  
+https://en-americas-support.nintendo.com/app/answers/detail/a_id/27542/~/how-to-share-captured-gameplay-videos
+
 
 
 # Game Information

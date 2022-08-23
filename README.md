@@ -27,27 +27,27 @@ ZeldaSpeedRuns wiki (outdated, needs updating) http://zeldaspeedruns.com/botw
 
 - Shield clips  
 *apply skew to clip through walls*
-	- Jhent's comprehensive shield clipping tutorial https://youtu.be/Y6JTniuJPXE
-	- Piston's Test of Strength skip setups https://youtu.be/n2iqr7lh5gE
-	- Tony Express's ragdoll and skew explanation https://youtu.be/8bfZ4o-OMDg
+	- Comprehensive shield clipping tutorial by Jhent https://youtu.be/Y6JTniuJPXE
+	- Test of Strength skip setups by Piston https://youtu.be/n2iqr7lh5gE
+	- Ragdoll and skew explanation by Tony Express https://youtu.be/8bfZ4o-OMDg
 - Windbomb  
 *use 2 bombs and bullet time to go fast*
-	- Vivoxe's windbomb tutorials http://bombch.us/DWK5
-	- Swiffy's windbomb setups https://youtu.be/z1oDa3xRD08
+	- Windbomb tutorials by Vivoxe http://bombch.us/DWK5
+	- Windbomb setups by Swiffy https://youtu.be/z1oDa3xRD08
 	- Super Launch: *abuse lag to go faster*
-		- Orcrist's super launch bootcamp https://youtu.be/vE1o7WHiVmg
-		- Swiffy's audio cues http://bombch.us/DWK3
+		- Super launch bootcamp by Orcrist https://youtu.be/vE1o7WHiVmg
+		- Audio cues by Orcrist http://bombch.us/DWK3
 		- Super launches with handcam http://bombch.us/DWK4
 - Bow Lift Smuggle Slide (BLSS)  
 *use a held object to push Link across the map*
-    - Kleric's blss tutorial https://youtu.be/F1gUS5kVEXA
-	- Tapir's blss tutorial https://youtu.be/AYvJa_pQXZc
-	- Piston's elevator blss tutorial https://youtu.be/Wk5M7Ts7-YE
+    - Blss tutorial by Kleric https://youtu.be/F1gUS5kVEXA
+	- Blss tutorial by Tapir https://youtu.be/AYvJa_pQXZc
+	- Elevator blss tutorial by Piston https://youtu.be/Wk5M7Ts7-YE
 	- Blss grip styles http://bombch.us/DWK2
-	- Swiffy's 0-blss bootcamp https://youtu.be/H9_hhbOEgdI
+	- 0-blss bootcamp by Swiffy https://youtu.be/H9_hhbOEgdI
 - Shrine Coordinate Warp (SCW) resources:  
 *use one shrine's elevator to enter another*
-    - Orcrist's tutorial http://bombch.us/DWK1
+    - SCW tutorial by Orcrist http://bombch.us/DWK1
     - See All Shrines section below for more
 - Inventory Slot Transfer (IST)  
 *dupe materials, get 999 of them*
@@ -62,21 +62,21 @@ ZeldaSpeedRuns wiki (outdated, needs updating) http://zeldaspeedruns.com/botw
 ## Any%
 *Destroy Ganon as fast as possible.*
 
-Futurelander's Great Plateau tutorial https://www.youtube.com/watch?v=r5utB87iQ_Y  
-Player 5's commentated run (6 Ancient Arrow route) https://www.youtube.com/watch?v=HwuPldbQIGo&t=  
-Tapir explains 3 Ancient Arrow route https://youtu.be/nFH3gsKNZ04?t=1183  
+Great Plateau tutorial by Futurelander https://www.youtube.com/watch?v=r5utB87iQ_Y  
+Full commentated run (6 Ancient Arrow route) by Player 5 https://www.youtube.com/watch?v=HwuPldbQIGo&t=  
+3 Ancient Arrow route tutorial by Tapir https://youtu.be/nFH3gsKNZ04?t=1183  
 Amiibo that drop fish https://imgur.com/a/yvxxKeC  
 Attack up recipes https://imgur.com/a/9TudYTd  
-Player 5 explains no amiibo route https://youtu.be/Zai1rt8hK6A  
-Noman's Blights tutorial https://www.youtube.com/watch?v=aMbvew2Fskg  
-Mikey explains 6AA Calamity https://youtu.be/uMSgbiaP0XA  
-Tapir explains Dark Beast pre-fires https://youtu.be/nFH3gsKNZ04?t=4047
+No amiibo route tutorial by Player 5 https://youtu.be/Zai1rt8hK6A  
+Blights tutorial by Noman https://www.youtube.com/watch?v=aMbvew2Fskg  
+6AA Calamity by Mikey https://youtu.be/uMSgbiaP0XA  
+Dark Beast pre-fires by Tapir https://youtu.be/nFH3gsKNZ04?t=4047
 
 **Advanced Plateau Windbombs**  
-Limcube's Gamer Windbomb tutorial https://youtu.be/lLgkZABMxt4?t=1663  
-OnyxEbony's visual cues for Canal Windbomb https://twitter.com/OnyxEbony3/status/1482671152367484929  
-Mikey explains Canal Windbomb https://clips.twitch.tv/CredulousTangibleSmoothieKlappa-LGFfW_p8-yzd2LBy
-OnyxEbony's visual cues for Stasis Windbomb http://bombch.us/DWK0
+Gamer Windbomb tutorial by Limcube https://youtu.be/lLgkZABMxt4?t=1663  
+Canal Windbomb visual cues by OnyxEbony  https://twitter.com/OnyxEbony3/status/1482671152367484929  
+Canal Windbomb explained by Mikey https://clips.twitch.tv/CredulousTangibleSmoothieKlappa-LGFfW_p8-yzd2LBy
+Stasis Windbomb visual cues by OnyxEbony http://bombch.us/DWK0
 
 
 ## All Dungeons
@@ -108,15 +108,15 @@ Restricted WR route https://celer.itntpiston.app/#/gh/taoplusplus/asr/
 *Use of the Shrine Coordinate Warp glitch is banned.*  
 
 SCW: *use one shrine's elevator to enter another*
-* Orcrist's buffered SCW bootcamp https://www.twitch.tv/videos/1457060058
-* Orcrist's infinity SCW tutorial https://youtu.be/Vha7mPcc1D8
-* Piston's 60 bpm metronome https://youtu.be/k-VP7TMf4kM
+* Buffered SCW bootcamp by Orcrist https://www.twitch.tv/videos/1457060058
+* Infinity SCW tutorial by Orcrist https://youtu.be/Vha7mPcc1D8
+* 60 bpm metronome by Piston https://youtu.be/k-VP7TMf4kM
 
-Piston's commentated walkthrough https://youtu.be/QEDwCbvwDQw  
-(Made recently but slightly outdated)
+Commentated walkthrough by Piston https://youtu.be/QEDwCbvwDQw  
+(Includes iSCW + IST but slightly outdated)
 
-Bings' commentated walkthrough https://youtu.be/MZqANcvFr4c  
-(Based on pre-blss/IST route but still very useful)  
+Commentated walkthrough by Bings https://youtu.be/MZqANcvFr4c  
+(Pre-blss/IST route but still very useful)  
 
 
 ## 100%
@@ -156,7 +156,7 @@ Route http://bombch.us/DWKz
 # Bug Limit
 *Categories with a list of banned glitches.*
 
-Lou's basics guide https://youtu.be/4f-deCOzrvs  
+Basics guide by LouLouCore https://youtu.be/4f-deCOzrvs  
 Any% WR route  
 All Dungeons WR route
 

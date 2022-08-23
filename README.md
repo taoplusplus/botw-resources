@@ -91,18 +91,18 @@ Divine beast strategies
 ## All Main Quests
 *Destroy Ganon after completing every other main quest.*
 
-No Restrictions WR route https://celer.itntpiston.app/#/gh/taoplusplus/amqnr/  
+[todo] No Restrictions WR route https://celer.itntpiston.app/#/gh/taoplusplus/amqnr/  
 
-Restricted WR route https://celer.itntpiston.app/#/gh/taoplusplus/amqr/  
+[todo] Restricted WR route https://celer.itntpiston.app/#/gh/taoplusplus/amqr/  
 *Heart upgrades must come from spirit orbs collected from completed shrines or from heart containers received from completing divine beasts.*  
 
 
 ## All Shrines
 *Destroy Ganon after completing every shrine.*
 
-No Restrictions WR route https://celer.itntpiston.app/#/gh/taoplusplus/allshrines/  
+[todo] No Restrictions WR route https://celer.itntpiston.app/#/gh/taoplusplus/allshrines/  
 
-Restricted WR route https://celer.itntpiston.app/#/gh/taoplusplus/asr/  
+[todo] Restricted WR route https://celer.itntpiston.app/#/gh/taoplusplus/asr/  
 *Use of the Shrine Coordinate Warp glitch is banned.*  
 
 SCW: *use one shrine's elevator to enter another*
@@ -126,22 +126,22 @@ Route https://celer.itntpiston.app/#/gh/taoplusplus/corrupted.granatus
 ## Best Ending
 *Obtain 13 memories that are part of the Captured Memories quest. Reach the special cutscene after destroying Ganon.*
 
-WR Route https://celer.itntpiston.app/#/gh/taoplusplus/bestending/
+[todo] WR Route https://celer.itntpiston.app/#/gh/taoplusplus/bestending/
 
 
 ## Master Sword
 *Obtain the Master Sword.*
 
-Restricted WR route https://celer.itntpiston.app/#/gh/taoplusplus/msr/  
+[todo] Restricted WR route https://celer.itntpiston.app/#/gh/taoplusplus/msr/  
 *Must complete "The Hero's Sword" main quest. Heart upgrades must come from spirit orbs collected from completed shrines or from heart containers received from completing divine beasts.*
 
 
 ## Master Sword and Dungeons
 *Destroy Ganon after completing each Divine Beast and obtaining the Master Sword.*
 
-No Restrictions WR route https://celer.itntpiston.app/#/gh/taoplusplus/msdnr/  
+[todo] No Restrictions WR route https://celer.itntpiston.app/#/gh/taoplusplus/msdnr/  
 
-Restricted WR route https://celer.itntpiston.app/#/gh/taoplusplus/msdr/  
+[todo] Restricted WR route https://celer.itntpiston.app/#/gh/taoplusplus/msdr/  
 *Must complete "The Hero's Sword" main quest. Heart upgrades must come from spirit orbs collected from completed shrines or from heart containers received from completing divine beasts.*
 
 
@@ -155,8 +155,8 @@ Route http://bombch.us/DWKz
 *Categories with a list of banned glitches.*
 
 Basics guide by LouLouCore https://youtu.be/4f-deCOzrvs  
-Any% WR route  
-All Dungeons WR route
+[todo] Any% WR route  
+[todo] All Dungeons WR route
 
 
 

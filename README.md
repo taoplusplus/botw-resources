@@ -23,6 +23,7 @@ ZeldaSpeedRuns wiki (outdated, needs updating) http://zeldaspeedruns.com/botw
 
 
 # Highlighted Resources
+*Comprehensive and/or useful guides that apply to multiple categories.*
 
 - Shield clips:  
 *apply skew to clip through walls*
@@ -41,12 +42,6 @@ ZeldaSpeedRuns wiki (outdated, needs updating) http://zeldaspeedruns.com/botw
 	- Tapir's blss tutorial https://youtu.be/AYvJa_pQXZc
 	- Piston's elevator blss tutorial https://youtu.be/Wk5M7Ts7-YE
 	- BLSS styles https://docs.google.com/spreadsheets/u/0/d/1ovVU9zgAbO2yOIgaF41pC-IFh5Q_71JBscAmkN2hklk/htmlview#gid=0
-- Shrine Coordinate Warp (SCW):  
-*use one shrine's elevator to enter another*
-	- Basic setup https://www.youtube.com/watch?v=fcLRI_yGSj4&list=PLii13EF5GET2m4gLeClzYTSkfVhlBYK7Y
-	- Buffered SCW bootcamp https://www.twitch.tv/videos/1457060058
-	- Infinity SCW https://youtu.be/Vha7mPcc1D8
-	- 60 bpm metronome https://youtu.be/k-VP7TMf4kM
 - Inventory Slot Transfer (IST)  
 *do some crazy stuff*
 	- IST tutorial: ?
@@ -128,6 +123,12 @@ Restricted route (wip)
 *Use of the Shrine Coordinate Warp glitch is banned.*  
 https://celer.itntpiston.app/#/gh/taoplusplus/asr/
 
+Shrine Coordinate Warp (SCW) resources:  
+*use one shrine's elevator to enter another*
+	- Basic setup https://www.youtube.com/watch?v=fcLRI_yGSj4&list=PLii13EF5GET2m4gLeClzYTSkfVhlBYK7Y
+	- Buffered SCW bootcamp https://www.twitch.tv/videos/1457060058
+	- Infinity SCW https://youtu.be/Vha7mPcc1D8
+	- 60 bpm metronome https://youtu.be/k-VP7TMf4kM
 
 Piston's commentated walkthrough  
 (Made recently but slightly outdated)  

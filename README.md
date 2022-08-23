@@ -2,11 +2,8 @@
 # Leaderboards
 *Watch and submit runs.*
 
-Main Leaderboards  
-https://www.speedrun.com/botw
-
-Category Extension Leaderboards  
-https://www.speedrun.com/botw-extension
+Main Leaderboards https://www.speedrun.com/botw  
+Category Extension Leaderboards https://www.speedrun.com/botw-extension
 
 To submit your own run to the leaderboard, a clear video recording of your gameplay on the Wii U or Switch is required. This can be done with a phone recording or a capture card. Verifiers will time your run so no on screen timer is needed. At this time, emulators like CEMU and Yuzu are not allowed because of inaccuracies in their emulation. See the leaderboards for more specific rules in each category.
 
@@ -104,6 +101,7 @@ Restricted WR route https://celer.itntpiston.app/#/gh/taoplusplus/amqr/
 *Destroy Ganon after completing every shrine.*
 
 No Restrictions WR route https://celer.itntpiston.app/#/gh/taoplusplus/allshrines/  
+
 Restricted WR route https://celer.itntpiston.app/#/gh/taoplusplus/asr/  
 *Use of the Shrine Coordinate Warp glitch is banned.*  
 
@@ -134,7 +132,6 @@ WR Route https://celer.itntpiston.app/#/gh/taoplusplus/bestending/
 ## Master Sword
 *Obtain the Master Sword.*
 
-No Restrictions WR route https://celer.itntpiston.app/#/gh/taoplusplus/ms/
 Restricted WR route https://celer.itntpiston.app/#/gh/taoplusplus/msr/  
 *Must complete "The Hero's Sword" main quest. Heart upgrades must come from spirit orbs collected from completed shrines or from heart containers received from completing divine beasts.*
 
@@ -143,6 +140,7 @@ Restricted WR route https://celer.itntpiston.app/#/gh/taoplusplus/msr/
 *Destroy Ganon after completing each Divine Beast and obtaining the Master Sword.*
 
 No Restrictions WR route https://celer.itntpiston.app/#/gh/taoplusplus/msdnr/  
+
 Restricted WR route https://celer.itntpiston.app/#/gh/taoplusplus/msdr/  
 *Must complete "The Hero's Sword" main quest. Heart upgrades must come from spirit orbs collected from completed shrines or from heart containers received from completing divine beasts.*
 

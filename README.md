@@ -33,7 +33,7 @@ ZeldaSpeedRuns wiki (outdated, needs updating) http://zeldaspeedruns.com/botw
 	- Windbomb setups by Swiffy https://youtu.be/z1oDa3xRD08
 	- Super Launch: *abuse lag to go faster*
 		- Super launch bootcamp by Orcrist https://youtu.be/vE1o7WHiVmg
-		- Audio cues by Orcrist http://bombch.us/DWK3
+		- Audio cues by Swiffy http://bombch.us/DWK3
 		- Super launches with handcam http://bombch.us/DWK4
 - Bow Lift Smuggle Slide (BLSS)  
 *use a held object to push Link across the map*
@@ -60,6 +60,7 @@ ZeldaSpeedRuns wiki (outdated, needs updating) http://zeldaspeedruns.com/botw
 *Destroy Ganon as fast as possible.*
 
 Great Plateau tutorial by Futurelander https://youtu.be/r5utB87iQ_Y  
+Any% tutorial by Tony Express http://bombch.us/DWNF
 Full commentated run (6 Ancient Arrow route) by Player 5 https://youtu.be/HwuPldbQIGo  
 3 Ancient Arrow route tutorial by Tapir https://youtu.be/nFH3gsKNZ04?t=1183  
 Amiibo that drop fish https://imgur.com/a/yvxxKeC  

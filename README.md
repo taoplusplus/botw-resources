@@ -60,7 +60,7 @@ ZeldaSpeedRuns wiki (outdated, needs updating) http://zeldaspeedruns.com/botw
 *Destroy Ganon as fast as possible.*
 
 Great Plateau tutorial by Futurelander https://youtu.be/r5utB87iQ_Y  
-Any% tutorial by Tony Express http://bombch.us/DWNF
+Any% tutorial by Tony Express http://bombch.us/DWNF  
 Full commentated run (6 Ancient Arrow route) by Player 5 https://youtu.be/HwuPldbQIGo  
 3 Ancient Arrow route tutorial by Tapir https://youtu.be/nFH3gsKNZ04?t=1183  
 Amiibo that drop fish https://imgur.com/a/yvxxKeC  

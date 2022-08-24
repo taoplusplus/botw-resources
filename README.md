@@ -93,7 +93,7 @@ Divine beast strategies
 
 [todo] No Restrictions WR route
 
-[todo] Restricted WR route
+[todo] Restricted WR route  
 *Heart upgrades must come from spirit orbs collected from completed shrines or from heart containers received from completing divine beasts.*  
 
 
@@ -102,7 +102,7 @@ Divine beast strategies
 
 No Restrictions WR route https://celer.itntpiston.app/#/gh/taoplusplus/allshrines/  
 
-[todo] Restricted WR route
+[todo] Restricted WR route  
 *Use of the Shrine Coordinate Warp glitch is banned.*  
 
 SCW: *use one shrine's elevator to enter another*
@@ -141,7 +141,7 @@ WR Route https://celer.itntpiston.app/#/gh/taoplusplus/bestending/
 
 [todo] No Restrictions WR route
 
-[todo] Restricted WR route
+[todo] Restricted WR route  
 *Must complete "The Hero's Sword" main quest. Heart upgrades must come from spirit orbs collected from completed shrines or from heart containers received from completing divine beasts.*
 
 
@@ -152,7 +152,7 @@ Route http://bombch.us/DWKz
 
 
 # Bug Limit
-*Categories with a list of banned glitches.*
+*Categories with a list of banned glitches. View rules at https://www.speedrun.com/botw#Bug_Limit_Categories.*
 
 Basics guide by LouLouCore https://youtu.be/4f-deCOzrvs  
 [todo] Any% WR route  

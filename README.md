@@ -59,8 +59,8 @@ ZeldaSpeedRuns wiki (outdated, needs updating) http://zeldaspeedruns.com/botw
 ## Any%
 *Destroy Ganon as fast as possible.*
 
-Great Plateau tutorial by Futurelander https://www.youtube.com/watch?v=r5utB87iQ_Y  
-Full commentated run (6 Ancient Arrow route) by Player 5 https://www.youtube.com/watch?v=HwuPldbQIGo&t=  
+Great Plateau tutorial by Futurelander https://youtu.be/r5utB87iQ_Y  
+Full commentated run (6 Ancient Arrow route) by Player 5 https://youtu.be/HwuPldbQIGo  
 3 Ancient Arrow route tutorial by Tapir https://youtu.be/nFH3gsKNZ04?t=1183  
 Amiibo that drop fish https://imgur.com/a/yvxxKeC  
 Attack up recipes https://imgur.com/a/9TudYTd  
@@ -71,8 +71,8 @@ Dark Beast pre-fires by Tapir https://youtu.be/nFH3gsKNZ04?t=4047
 
 **Advanced Plateau Windbombs**  
 Gamer Windbomb tutorial by Limcube https://youtu.be/lLgkZABMxt4?t=1663  
-Canal Windbomb visual cues by OnyxEbony  https://twitter.com/OnyxEbony3/status/1482671152367484929  
-Canal Windbomb explained by Mikey https://clips.twitch.tv/CredulousTangibleSmoothieKlappa-LGFfW_p8-yzd2LBy
+Canal Windbomb visual cues by OnyxEbony http://bombch.us/DWMS  
+Canal Windbomb explained by Mikey http://bombch.us/DWMR  
 Stasis Windbomb visual cues by OnyxEbony http://bombch.us/DWK0
 
 
@@ -132,7 +132,7 @@ WR Route https://celer.itntpiston.app/#/gh/taoplusplus/bestending/
 ## Master Sword
 *Obtain the Master Sword.*
 
-[todo] Restricted WR route https://celer.itntpiston.app/#/gh/taoplusplus/msr/  
+Restricted WR route https://celer.itntpiston.app/#/gh/taoplusplus/msr/  
 *Must complete "The Hero's Sword" main quest. Heart upgrades must come from spirit orbs collected from completed shrines or from heart containers received from completing divine beasts.*
 
 

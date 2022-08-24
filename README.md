@@ -48,9 +48,9 @@ ZeldaSpeedRuns wiki (outdated, needs updating) http://zeldaspeedruns.com/botw
     - See All Shrines section below for more
 - Inventory Slot Transfer (IST)  
 *dupe materials, get 999 of them*
-	- IST tutorial: ?
-	- Direct Inventory Corruption (DIC): ?
-	- Weapon Modifier Corruption (WMC): ?
+	- IST tutorial: [todo]
+	- Direct Inventory Corruption (DIC): [todo]
+	- Weapon Modifier Corruption (WMC): [todo]
 
 
 
@@ -91,18 +91,18 @@ Divine beast strategies
 ## All Main Quests
 *Destroy Ganon after completing every other main quest.*
 
-[todo] No Restrictions WR route https://celer.itntpiston.app/#/gh/taoplusplus/amqnr/  
+[todo] No Restrictions WR route
 
-[todo] Restricted WR route https://celer.itntpiston.app/#/gh/taoplusplus/amqr/  
+[todo] Restricted WR route
 *Heart upgrades must come from spirit orbs collected from completed shrines or from heart containers received from completing divine beasts.*  
 
 
 ## All Shrines
 *Destroy Ganon after completing every shrine.*
 
-[todo] No Restrictions WR route https://celer.itntpiston.app/#/gh/taoplusplus/allshrines/  
+No Restrictions WR route https://celer.itntpiston.app/#/gh/taoplusplus/allshrines/  
 
-[todo] Restricted WR route https://celer.itntpiston.app/#/gh/taoplusplus/asr/  
+[todo] Restricted WR route
 *Use of the Shrine Coordinate Warp glitch is banned.*  
 
 SCW: *use one shrine's elevator to enter another*
@@ -126,7 +126,7 @@ Route https://celer.itntpiston.app/#/gh/taoplusplus/corrupted.granatus
 ## Best Ending
 *Obtain 13 memories that are part of the Captured Memories quest. Reach the special cutscene after destroying Ganon.*
 
-[todo] WR Route https://celer.itntpiston.app/#/gh/taoplusplus/bestending/
+WR Route https://celer.itntpiston.app/#/gh/taoplusplus/bestending/
 
 
 ## Master Sword
@@ -139,9 +139,9 @@ Route https://celer.itntpiston.app/#/gh/taoplusplus/corrupted.granatus
 ## Master Sword and Dungeons
 *Destroy Ganon after completing each Divine Beast and obtaining the Master Sword.*
 
-[todo] No Restrictions WR route https://celer.itntpiston.app/#/gh/taoplusplus/msdnr/  
+[todo] No Restrictions WR route
 
-[todo] Restricted WR route https://celer.itntpiston.app/#/gh/taoplusplus/msdr/  
+[todo] Restricted WR route
 *Must complete "The Hero's Sword" main quest. Heart upgrades must come from spirit orbs collected from completed shrines or from heart containers received from completing divine beasts.*
 
 
@@ -212,7 +212,7 @@ How to Share Captured Gameplay Videos (Switch) http://bombch.us/DWKx
 🍴 Cooking Effects Pastebin http://bombch.us/DJto (Add 30 seconds to Star Fragment, Dragon Scale/Claw/Fang, and all Monster Parts. Octo Balloon should be 40 seconds)  
 🧶 Material Usage Spreadsheet http://bombch.us/DJtq  
 🔓 All Shrine Chests Contents http://bombch.us/DJtr  
-🎁 Drop Tables and Probability Calculator https://restite.org/drops/
+🎁 Drop Tables and Probability Calculator https://restite.org/drops/  
 🏷️ amiibo Drop Tables http://bombch.us/DJtt
 
 

@@ -20,7 +20,7 @@ ZeldaSpeedRuns wiki (outdated, needs updating) http://zeldaspeedruns.com/botw
 
 
 # Highlighted Resources
-*Comprehensive and/or useful guides that apply to multiple categories.*
+*Comprehensive and/or useful guides that apply to multiple categories. Highly regarded or often recommended.*
 
 - Shield clips  
 *apply skew to clip through walls*
@@ -28,7 +28,7 @@ ZeldaSpeedRuns wiki (outdated, needs updating) http://zeldaspeedruns.com/botw
 	- Test of Strength skip setups by Piston https://youtu.be/n2iqr7lh5gE
 	- Ragdoll and skew explanation by Tony Express https://youtu.be/8bfZ4o-OMDg
 - Windbomb  
-*use 2 bombs and bullet time to go fast*
+*use 2 bombs and bullet time to fly*
 	- Windbomb tutorials by Vivoxe http://bombch.us/DWK5
 	- Windbomb setups by Swiffy https://youtu.be/z1oDa3xRD08
 	- Super Launch: *abuse lag to go faster*

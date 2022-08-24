@@ -47,7 +47,7 @@ ZeldaSpeedRuns wiki (outdated, needs updating) http://zeldaspeedruns.com/botw
     - SCW tutorial by Orcrist http://bombch.us/DWK1
     - See All Shrines section below for more
 - Inventory Slot Transfer (IST)  
-*dupe materials, get 999 of them*
+*dupe materials, get 999 of them, and a lot of crazy stuff*
 	- IST tutorial: [todo]
 	- Direct Inventory Corruption (DIC): [todo]
 	- Weapon Modifier Corruption (WMC): [todo]

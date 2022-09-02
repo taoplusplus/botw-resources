@@ -9,16 +9,6 @@ To submit your own run to the leaderboard, a clear video recording of your gamep
 
 
 
-# General Resources
-
-🏃 Speedrunning Terminology Glossary (Includes short gifs of many glitches) http://bombch.us/DRRY  
-▶️ Glitch Tutorials Playlist http://bombch.us/DOWd  
-🐛 Zeldapedia Page http://bombch.us/DJtd  
-📄 Community Spreadsheet http://bombch.us/DJte  
-ZeldaSpeedRuns wiki (outdated, needs updating) http://zeldaspeedruns.com/botw
-
-
-
 # Highlighted Resources
 *Comprehensive and/or useful guides that apply to multiple categories. Highly regarded or often recommended.*
 
@@ -70,7 +60,7 @@ Blights tutorial by Noman https://www.youtube.com/watch?v=aMbvew2Fskg
 6AA Calamity by Mikey https://youtu.be/uMSgbiaP0XA  
 Dark Beast pre-fires by Tapir https://youtu.be/nFH3gsKNZ04?t=4047
 
-**Advanced Plateau Windbombs**  
+***Advanced Plateau Windbombs***  
 Gamer Windbomb tutorial by Limcube https://youtu.be/lLgkZABMxt4?t=1663  
 Canal Windbomb visual cues by OnyxEbony http://bombch.us/DWMS  
 Canal Windbomb explained by Mikey http://bombch.us/DWMR  
@@ -152,7 +142,7 @@ Restricted WR route https://celer.itntpiston.app/#/gh/taoplusplus/msr/
 Route http://bombch.us/DWKz
 
 
-# Bug Limit
+## Bug Limit
 *Categories with a list of banned glitches. View rules at https://www.speedrun.com/botw#Bug_Limit_Categories.*
 
 Basics guide by LouLouCore https://youtu.be/4f-deCOzrvs  
@@ -161,7 +151,7 @@ Basics guide by LouLouCore https://youtu.be/4f-deCOzrvs
 
 
 
-# Master Mode
+## Master Mode
 
 Plateau lynel kill with handcam http://bombch.us/DWKy
 
@@ -193,6 +183,15 @@ How to Share Captured Gameplay Videos (Switch) http://bombch.us/DWKx
 
 
 # Game Information
+
+
+## General Resources
+
+🏃 Speedrunning Terminology Glossary (Includes short gifs of many glitches) http://bombch.us/DRRY  
+▶️ Glitch Tutorials Playlist http://bombch.us/DOWd  
+🐛 Zeldapedia Page http://bombch.us/DJtd  
+📄 Community Spreadsheet http://bombch.us/DJte  
+ZeldaSpeedRuns wiki (outdated, needs updating) http://zeldaspeedruns.com/botw
 
 ## Weapons
 
